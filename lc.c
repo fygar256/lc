@@ -6,7 +6,7 @@
 	Usage1 : lc alice pleasance liddell
 	Usage2 : echo alice pleasance liddell | lc
 
-	output : alice pleasance liddell 160
+	output : alice pleasance liddell 164
 
 	to complie : cc lc.c -o lc
 */
