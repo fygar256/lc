@@ -11,7 +11,7 @@
 #include	<string.h>
 #include	<ctype.h>
 
-char defaultdic[]="/home/gar/dic/EIJIRO-SAMPLE-1442.TXT";
+char defaultdic[]="/home/user/dic/EIJIRO-SAMPLE-1442.TXT";
 FILE *fp,*so;
 
 void wayout() {
